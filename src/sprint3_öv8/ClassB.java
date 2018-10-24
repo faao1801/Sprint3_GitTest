@@ -6,5 +6,5 @@ package sprint3_öv8;
 
 
 public class ClassB {
-
+  // första Ändring i branchA
 }
